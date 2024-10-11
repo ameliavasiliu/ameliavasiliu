@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/usr/bin/apt install -y git 
+/usr/bin/python3 -m pip install pandas
+/usr/bin/apt install -y boto3
